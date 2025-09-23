@@ -10,7 +10,7 @@ Additionally, after generating the statistical scales, we reduced the cleaned CS
 The smaller one is for model training.
 
 
-CIC-IDS2017 — Cleaning + Feature Engineering (simple, no scikit-learn)
+CIC-IDS2017 — Cleaning + Feature
 ------------------------------------------------------------------------
 What this script does:
 1) Load all CIC-IDS2017 CSVs from INPUT_DIR (glob patterns provided)
