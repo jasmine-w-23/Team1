@@ -1,9 +1,9 @@
 About
 (UNSW-NB15)
-. https://www.kaggle.com/code/khairulislam/unsw-nb15-eda/input/
+. https://www.kaggle.com/datasets/alextamboli/unsw-nb15/data
 
 (CIC-IDS2017)
-. https://www.kaggle.com/code/dhoogla/distrinet-cic-ids2017-00-cleaning/input 
+. https://www.kaggle.com/datasets/chethuhn/network-intrusion-dataset/data
 
 We merged the 1-4 CSV files into one raw file and applied the cleaning and feature functions. 
 Additionally, after generating the statistical scales, we reduced the cleaned CSV file to 25% to limit the size to under 70MB. 
